@@ -1,0 +1,19 @@
+.Board {
+  margin: 21.440px auto;
+  padding: 1px;
+  border: 1px solid #000;
+}
+
+.Board-cell {
+  background: #DDD;
+  border: 1px solid #999;
+  height: 34px;
+  width: 34px;
+  padding: 2px;
+  margin: 1px;
+  cursor: pointer;
+}
+
+.Board-cell:focus {
+  outline: none;
+}
