@@ -144,7 +144,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1 className="App-title">Mario Game HackerBay Inc</h1>
+        <h1 className="App-title">Hackerbay- Mario Game</h1>
 
         <Board
           cols={this.state.cols}
